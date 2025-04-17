@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Thu Apr 10 15:08:00 2025
+# Process ID         : 10336
+# Current directory  : D:/Xilinx Projects/UART/UART.runs/synth_1
+# Command line       : vivado.exe -log UART.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source UART.tcl
+# Log file           : D:/Xilinx Projects/UART/UART.runs/synth_1/UART.vds
+# Journal file       : D:/Xilinx Projects/UART/UART.runs/synth_1\vivado.jou
+# Running On         : MBSD
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz
+# CPU Frequency      : 2712 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16762 MB
+# Swap memory        : 17179 MB
+# Total Virtual      : 33942 MB
+# Available Virtual  : 22768 MB
+#-----------------------------------------------------------
+source UART.tcl -notrace

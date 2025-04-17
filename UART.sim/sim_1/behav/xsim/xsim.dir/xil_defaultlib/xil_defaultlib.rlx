@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Xilinx Projects/UART/UART.srcs/sources_1/new/BaudGenerator.vhd,1744203583,vhdl,D:/Xilinx Projects/UART/UART.srcs/sources_1/new/UART_tb.vhd,,,baudgenerator,,,,,,,,
+D:/Xilinx Projects/UART/UART.srcs/sources_1/new/ReceiverUART.vhd,1744304252,vhdl,D:/Xilinx Projects/UART/UART.srcs/sources_1/new/UART_tb.vhd,,,receiveruart,,,,,,,,
+D:/Xilinx Projects/UART/UART.srcs/sources_1/new/TransmitterUART.vhd,1744196119,vhdl,D:/Xilinx Projects/UART/UART.srcs/sources_1/new/UART_tb.vhd,,,transmitteruart,,,,,,,,
+D:/Xilinx Projects/UART/UART.srcs/sources_1/new/UART.vhd,1744227282,vhdl,,,,uart,,,,,,,,
+D:/Xilinx Projects/UART/UART.srcs/sources_1/new/UART_tb.vhd,1744301421,vhdl,,,,uart_tb,,,,,,,,
