@@ -6,15 +6,15 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) com
 
 This project includes the following components:
 
-* **BaudGenerator (BaudGenerator.vhd):** Generates the baud rate clock signals for both transmitter and receiver.
-* **TransmitterUART (TransmitterUART.vhd):** Handles serialization and transmission of data.
-* **ReceiverUART (ReceiverUART.vhd):** Receives and deserializes incoming serial data.
-* **UART (UART.vhd):** Top-level module that integrates the baud generator, transmitter, and receiver.
+* **BaudGenerator ([BaudGenerator.vhd](UART.srcs/sources_1/new/BaudGenerator.vhd)):** Generates the baud rate clock signals for both transmitter and receiver.
+* **TransmitterUART ([TransmitterUART.vhd](UART.srcs/sources_1/new/TransmitterUART.vhd)):** Handles serialization and transmission of data.
+* **ReceiverUART ([ReceiverUART.vhd](UART.srcs/sources_1/new/ReceiverUART.vhd)):** Receives and deserializes incoming serial data.
+* **UART ([UART.vhd](UART.srcs/sources_1/new/UART.vhd)):** Top-level module that integrates the baud generator, transmitter, and receiver.
 * **Testbenches:**
-  * UART_tb.vhd: Main testbench for the complete UART system
-  * TransmitterUART_tb.vhd: Dedicated testbench for the transmitter
-  * ReceiverUART_tb.vhd: Dedicated testbench for the receiver
-  * BaudGeneratorTB.vhd: Dedicated testbench for the baud generator
+  * [UART_tb.vhd](UART.srcs/sources_1/new/UART_tb.vhd): Main testbench for the complete UART system
+  * [TransmitterUART_tb.vhd](UART.srcs/sources_1/new/TransmitterUART_tb.vhd): Dedicated testbench for the transmitter
+  * [ReceiverUART_tb.vhd](UART.srcs/sources_1/new/ReceiverUART_tb.vhd): Dedicated testbench for the receiver
+  * [BaudGeneratorTB.vhd](UART.srcs/sources_1/new/BaudGeneratorTB.vhd): Dedicated testbench for the baud generator
 
 ## Features
 
