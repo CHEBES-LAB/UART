@@ -50,5 +50,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Edgar Nyandoro
+Edgar Nyandoro, Engineer.
 Contact: [edgarchebe@gmail.com](mailto:edgarchebe@gmail.com)
